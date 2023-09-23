@@ -78,4 +78,4 @@
 
 ## 🚀 링크
 
-- [리뉴얼 사이트](https://isabella-kim.github.io/sideProject-Choroc/](https://isabella-kim.github.io/ChorocRenewal/#none)
+- [리뉴얼 사이트](https://isabella-kim.github.io/ChorocRenewal/)
